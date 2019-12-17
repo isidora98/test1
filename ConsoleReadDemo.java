@@ -10,6 +10,8 @@ public class ConsoleReadDemo {
         System.out.println("Hej,ti si unio broj: " + uneseniBroj+5);
         }else{
         System.out.println("Hej,Dosadan si");
+        System.out.println("Hej,Dosadan si");
+        System.out.println("Hej,Dosadan si");
         }
         
         
